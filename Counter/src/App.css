@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.card {
+  padding: 2em;
+}
+h1{
+  margin-bottom: 10px;
+  font-size: 60px;
+  color: rgb(70, 79, 250);
+}
+h2{
+  font-size: 50px;
+}
+button {
+  margin-left: 5px;
+}
+button:hover{
+  background-color: rgb(70, 79, 250);
+}
+
